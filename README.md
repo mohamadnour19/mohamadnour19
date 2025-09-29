@@ -1,6 +1,6 @@
 ### Hi Im Mohamad Nour 👋 Born in 2003🫰🏼
 
-⏳ Beginner in Fullstack Developer Java  🔜 PRO <br/>
+⏳ Junior Fullstack Developer (Java) | Learning Spring Boot & React <br/>
 🧑🏻‍💻 Studying at [Lexicon](https://lexicongruppen.se/) Växsjö<br/> 
 📍 Live in [Sweden, Sundsvall](https://maps.app.goo.gl/42tc9VDbpeqK5caLA) <br/>
 
